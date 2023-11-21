@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kazurayam&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 
+<!--
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20kazurayam)](https://github.com/kazurayam)
 
-[![github-chart](https://github-chart.vercel.app/api?user=kazurayam)](https://github.com/kazurayam/github-chart)
 
+[![github-chart](https://github-chart.vercel.app/api?user=kazurayam)](https://github.com/kazurayam/github-chart)
+-->
